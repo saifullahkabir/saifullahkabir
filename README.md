@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=saifullahkabir&label=Profile+Views&color=14b8a6&style=for-the-badge)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Saifullah Kabir Rana
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Rana
 =============================================================================================================================================
 
 Web Developer
