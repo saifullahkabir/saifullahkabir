@@ -13,12 +13,12 @@ Passionate MERN Stack Developer focused on creating modern, responsive web apps.
 
 # Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,node,express,mongodb,firebase,typescript,)](https://skillicons.dev)
 
 
 # Tools I use
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,arduino,figma,git)](https://skillicons.dev)
 
 ### Socials
 
