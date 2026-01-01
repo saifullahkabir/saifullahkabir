@@ -36,5 +36,5 @@ Passionate MERN Stack Developer focused on creating modern, responsive web apps.
   />
 </a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saifullahkabir)
-
+<a href="https://github.com/saifullahkabir" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullahkabir&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages&cache_seconds=1800" alt="Top Languages" />
+</a>
