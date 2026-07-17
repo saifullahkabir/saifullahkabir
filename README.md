@@ -77,29 +77,19 @@
  <br>
 
 
-## GitHub Stats
+<b>My GitHub Stats</b>
 
-<p align="center">
+<a href="http://www.github.com/saifullahkabir"><img src="https://github-readme-stats.vercel.app/api?username=saifullahkabir&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="saifullahkabir's GitHub stats" /></a>
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=saifullahkabir&show_icons=true&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/saifullahkabir">
+  <img 
+    src="https://github-readme-streak-stats-salesp07.vercel.app?user=saifullahkabir&theme=highcontrast&hide_border=true&background=000000&stroke=ffffff&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" 
+    alt="GitHub Streak Stats" 
+  />
+</a>
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullahkabir&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<br>
-
-## GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saifullahkabir&theme=tokyonight&hide_border=true"/>
-
-</p>
+<a href="https://github.com/saifullahkabir" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullahkabir&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages&cache_seconds=1800" alt="Top Languages" />
+</a>
 
 <br>
 
