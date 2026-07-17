@@ -27,8 +27,8 @@
 
 ## Information
 
-- 🌍 Bangladesh
-- 📧 saifullahkabirranaa@gmail.com
+* 🌍  I'm based in Bangladesh
+* ✉️  You can contact me at [saifullahkabirranaa@gmail.com](mailto:saifullahkabirranaa@gmail.com)
 - 🌐 Portfolio: [https://saifullah-kabir.vercel.app](https://saifullah-kabir.vercel.app/)
 - 💼 Open for Freelance & Full-Time Opportunities
   
