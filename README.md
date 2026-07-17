@@ -7,7 +7,7 @@
 <br>
 
 <h1 align="center">
-  Hi 👋 I'm <b>Saifullah Kabir Rana</b>
+  Hi 👋 I'm <b>Saifullah Kabir Rana
 </h1>
 
 <br>
