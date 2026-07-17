@@ -24,6 +24,14 @@
 - 🎯 Goal: Become a Professional Software Engineer
 - ⚡ Love creating beautiful UI with smooth UX
 
+
+## Information
+
+- 🌍 Bangladesh
+- 📧 saifullahkabirranaa@gmail.com
+- 🌐 Portfolio: [https://saifullah-kabir.vercel.app](https://saifullah-kabir.vercel.app/)
+- 💼 Open for Freelance & Full-Time Opportunities
+  
 <br>
 
 ## TECHNOLOGY STACK:
