@@ -4,13 +4,13 @@
 
 # Hi 👋 I'm Saifullah Kabir Rana
 
-### Full Stack Web Developer from Bangladesh 🇧🇩
+### Full Stack Web Developer
 
 Passionate about building modern, scalable, and user-friendly web applications using the latest web technologies.
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🌱 Currently learning **Next.js 16 & Advanced Backend Architecture**
 - 💼 Building modern Full Stack Applications
@@ -20,7 +20,7 @@ Passionate about building modern, scalable, and user-friendly web applications u
 
 ---
 
-## 📍 Information
+## Information
 
 - 🌍 Bangladesh
 - 📧 saifullahkabirranaa@gmail.com
@@ -29,7 +29,7 @@ Passionate about building modern, scalable, and user-friendly web applications u
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
 
@@ -39,7 +39,7 @@ Passionate about building modern, scalable, and user-friendly web applications u
 
 ---
 
-## ⚙ Tools
+## Tools
 
 <p align="center">
 
@@ -85,7 +85,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullahkab
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
 
@@ -105,7 +105,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullahkab
 
 ---
 
-## 💡 Current Focus
+## Current Focus
 
 - 🚀 Building Premium Portfolio Website
 - 📚 Mastering Next.js
@@ -114,6 +114,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullahkab
 
 ---
 
-## ✨ Fun Fact
+## Fun Fact
 
 > I enjoy turning ideas into clean, scalable, and interactive web experiences.
