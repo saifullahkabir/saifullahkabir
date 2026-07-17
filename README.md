@@ -16,22 +16,23 @@
 
 <br>
 
-## About Me
+##  About Me
 
-- 🌱 Currently learning **Next.js 16 & Advanced Backend Architecture**
-- 💼 Building modern Full Stack Applications
-- 🧠 Exploring Clean Architecture & Scalable Systems
-- 🎯 Goal: Become a Professional Software Engineer
-- ⚡ Love creating beautiful UI with smooth UX
+- 🌱 Currently learning **Next.js 16** and **Advanced Backend Architecture**
+- 💼 Building modern, scalable, and production-ready Full Stack web applications
+- 🧠 Exploring Clean Architecture, System Design, and Best Practices
+- 🎯 Aspiring to become a Professional Software Engineer
+- ⚡ Passionate about crafting beautiful, responsive, and user-friendly interfaces
 
+<br>
 
-## Information
+##  Information
 
-* 🌍  I'm based in Bangladesh
-* ✉️  You can contact me at [saifullahkabirranaa@gmail.com](mailto:saifullahkabirranaa@gmail.com)
-- 🌐 Portfolio: [https://saifullah-kabir.vercel.app](https://saifullah-kabir.vercel.app/)
-- 💼 Open for Freelance & Full-Time Opportunities
-  
+- 🌍 Based in **Bangladesh**
+- ✉️ Email: **[saifullahkabirranaa@gmail.com](mailto:saifullahkabirranaa@gmail.com)**
+- 🌐 Portfolio: **[saifullah-kabir.vercel.app](https://saifullah-kabir.vercel.app/)**
+- 💼 Open to **Freelance**, **Internship**, and **Full-Time Opportunities**
+
 <br>
 
 ## TECHNOLOGY STACK:
