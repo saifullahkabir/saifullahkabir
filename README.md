@@ -64,7 +64,7 @@
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=saifullahkabir&layout=compact&theme=github_dark)
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/saifullahkabir/saifullahkabir/output/github-contribution-grid-snake-dark.svg)
 
 <br>
 
