@@ -20,7 +20,6 @@
 </p>
 
 <br>
-<br>
 
 ## About Me
 
@@ -30,7 +29,6 @@
 - 🎯 Goal: Become a Professional Software Engineer
 - ⚡ Love creating beautiful UI with smooth UX
 
- <br>
 <br>
 
 ## TECHNOLOGY STACK:
@@ -56,7 +54,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,figma,npm"/>
 </p>
 
- <br>
 <br>
 
 ## Connect With Me
@@ -78,7 +75,6 @@
 </p>
 
  <br>
- <br>
 
 
 ## GitHub Stats
@@ -96,7 +92,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullahkab
 </p>
 
 <br>
- 
 
 ## GitHub Streak
 
@@ -106,7 +101,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullahkab
 
 </p>
 
-<br>
 <br>
 
 ## Current Focus
