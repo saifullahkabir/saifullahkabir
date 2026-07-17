@@ -39,44 +39,28 @@
 
 ---
 
-## Frontend
+## TECHNOLOGY STACK:
 
-<p align="center">
-
+### Frontend
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs"/>
-
 </p>
 
----
-
-## Backend
-
-<p align="center">
-
+### Backend
+<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,prisma"/>
-
 </p>
 
----
-
-## Database
-
-<p align="center">
-
+### Database
+<p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase"/>
-
 </p>
 
----
+### Tools
 
-## Tools
-
-<p align="center">
-
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,figma,npm"/>
-
 </p>
-
 ---
 
 ## Connect With Me
