@@ -62,6 +62,8 @@
 
 <a href="http://www.github.com/saifullahkabir"><img src="https://github-readme-stats.vercel.app/api?username=saifullahkabir&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="saifullahkabir's GitHub stats" /></a>
 
+<img src="https://github-profile-trophy.vercel.app/?username=saifullahkabir&theme=algolia&no-frame=true&row=1&column=6"/>
+
 <a href="https://github.com/saifullahkabir">
   <img 
     src="https://github-readme-streak-stats-salesp07.vercel.app?user=saifullahkabir&theme=highcontrast&hide_border=true&background=000000&stroke=ffffff&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" 
@@ -69,10 +71,12 @@
   />
 </a>
 
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
 <a href="https://github.com/saifullahkabir" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullahkabir&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages&cache_seconds=1800" alt="Top Languages" />
 </a>
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
 
 <br>
 
