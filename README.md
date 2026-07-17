@@ -7,7 +7,7 @@
 <br>
 
 <h1 align="center">
-  Hi 👋 I'm <span style="color:#6366F1;">Saifullah Kabir Rana</span>
+  Hi 👋 I'm <b>Saifullah Kabir Rana</b>
 </h1>
 
 <br>
@@ -85,7 +85,6 @@
 - 💻 Building Production Ready Projects
 
 <br>
- <br>
 
 ## Fun Fact
 
