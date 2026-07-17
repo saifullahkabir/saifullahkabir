@@ -6,18 +6,17 @@
 <br>
 <br>
 
-<p align="center">
   <h1 align="center">
   Hi 👋 I'm <span style="color:#6366F1;">Saifullah Kabir Rana</span>
 </h1>
   <br>
   
+<p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+Developer;Building+Modern+%26+Scalable+Web+Applications;Always+Learning+New+Technologies"
     alt="Typing Animation"
   />
 </p>
-
 
 
 ## About Me
@@ -28,7 +27,6 @@
 - 🎯 Goal: Become a Professional Software Engineer
 - ⚡ Love creating beautiful UI with smooth UX
 
----
 
 ## TECHNOLOGY STACK:
 
@@ -52,7 +50,6 @@
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,figma,npm"/>
 </p>
----
 
 ## Connect With Me
 
@@ -72,7 +69,6 @@
 
 </p>
 
----
 
 ## GitHub Stats
 
@@ -88,7 +84,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullahkab
 
 </p>
 
----
 
 ## GitHub Streak
 
@@ -98,7 +93,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullahkab
 
 </p>
 
----
 
 ## Current Focus
 
@@ -106,7 +100,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullahkab
 - 🔥 Improving Backend Development Skills
 - 💻 Building Production Ready Projects
 
----
 
 ## Fun Fact
 
