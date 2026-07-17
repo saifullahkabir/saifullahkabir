@@ -2,8 +2,6 @@
 
 <img src="https://i.ibb.co.com/84shPzgc/Chat-GPT-Image-Jul-18-2026-03-54-42-AM.png" width="100%" />
 
-
-<br>
 <br>
 
 <h1 align="center">
