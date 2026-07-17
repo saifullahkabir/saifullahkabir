@@ -1,14 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=saifullahkabir&label=Profile+Views&color=14b8a6&style=for-the-badge)
 
-<img src="https://i.ibb.co.com/0y0DWqNd/Chat-GPT-Image-Jul-18-2026-03-54-42-AM.png" width="100%" />
+<img src="https://i.ibb.co.com/84shPzgc/Chat-GPT-Image-Jul-18-2026-03-54-42-AM.png" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+Developer;Building+Modern+%26+Scalable+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
 # Hi 👋 I'm Saifullah Kabir Rana
-
-### Full Stack Web Developer
 
 Passionate about building modern, scalable, and user-friendly web applications using the latest web technologies.
 
