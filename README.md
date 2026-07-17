@@ -7,12 +7,13 @@
 <br>
 
 
-  Hi 👋 I'm <b>Saifullah Kabir Rana
+  
 
 
 <br>
   
-<p align="center">
+<p align="center">\
+  <h1>Hi 👋 I'm <b>Saifullah Kabir Rana</h1>
   <img
     src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+Developer;Building+Modern+%26+Scalable+Web+Applications;Always+Learning+New+Technologies"
     alt="Typing Animation"
