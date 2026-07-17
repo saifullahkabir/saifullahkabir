@@ -6,10 +6,11 @@
 <br>
 <br>
 
-  <h1 align="center">
+<h1 align="center">
   Hi 👋 I'm <span style="color:#6366F1;">Saifullah Kabir Rana</span>
 </h1>
-  <br>
+
+<br>
   
 <p align="center">
   <img
@@ -18,6 +19,8 @@
   />
 </p>
 
+<br>
+<br>
 
 ## About Me
 
@@ -27,6 +30,8 @@
 - 🎯 Goal: Become a Professional Software Engineer
 - ⚡ Love creating beautiful UI with smooth UX
 
+ <br>
+<br>
 
 ## TECHNOLOGY STACK:
 
@@ -51,6 +56,9 @@
 <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,figma,npm"/>
 </p>
 
+ <br>
+<br>
+
 ## Connect With Me
 
 <p align="center">
@@ -69,6 +77,9 @@
 
 </p>
 
+ <br>
+ <br>
+
 
 ## GitHub Stats
 
@@ -84,6 +95,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullahkab
 
 </p>
 
+<br>
+ 
 
 ## GitHub Streak
 
@@ -93,6 +106,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullahkab
 
 </p>
 
+<br>
+<br>
 
 ## Current Focus
 
@@ -100,6 +115,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullahkab
 - 🔥 Improving Backend Development Skills
 - 💻 Building Production Ready Projects
 
+<br>
+ <br>
 
 ## Fun Fact
 
