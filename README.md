@@ -1,41 +1,144 @@
 ![](https://komarev.com/ghpvc/?username=saifullahkabir&label=Profile+Views&color=14b8a6&style=for-the-badge)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Rana
-=============================================================================================================================================
+<img src="https://i.ibb.co.com/0y0DWqNd/Chat-GPT-Image-Jul-18-2026-03-54-42-AM.png" width="100%" />
 
-Web Developer
--------------
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+Developer;Building+Modern+%26+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+</p>
 
-Passionate MERN Stack Developer focused on creating modern, responsive web apps.
+# Hi 👋 I'm Saifullah Kabir Rana
 
-* 🌍  I'm based in Bangladesh
-* ✉️  You can contact me at [saifullahkabirranaa@gmail.com](mailto:saifullahkabirranaa@gmail.com)
+### Full Stack Web Developer
 
-# Skills
+Passionate about building modern, scalable, and user-friendly web applications using the latest web technologies.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase,typescript,)](https://skillicons.dev)
+---
 
+## About Me
 
-# Tools I use
+- 🌱 Currently learning **Next.js 16 & Advanced Backend Architecture**
+- 💼 Building modern Full Stack Applications
+- 🧠 Exploring Clean Architecture & Scalable Systems
+- 🎯 Goal: Become a Professional Software Engineer
+- ⚡ Love creating beautiful UI with smooth UX
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,arduino,figma,git)](https://skillicons.dev)
+---
 
-### Socials
+## Information
 
-<p align="left"> <a href="https://www.github.com/saifullahkabir" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/saifullah-kabir-rana-3b7b1b305" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/saifullahkabir" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a> <a href="https://www.facebook.com/saifullah.kabir.104" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
+<p align="center">
 
+<a href="https://your-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-<b>My GitHub Stats</b>
+<a href="mailto:saifullahkabirranaa@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<a href="http://www.github.com/saifullahkabir"><img src="https://github-readme-stats.vercel.app/api?username=saifullahkabir&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="saifullahkabir's GitHub stats" /></a>
+<a href="https://www.linkedin.com/in/saifullah-kabir-rana-3b7b1b305">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+## Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs"/>
+
+</p>
+
+---
+
+## Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma"/>
+
+</p>
+
+---
+
+## Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase"/>
+
+</p>
+
+---
+
+## Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,figma,npm"/>
+
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
 
 <a href="https://github.com/saifullahkabir">
-  <img 
-    src="https://github-readme-streak-stats-salesp07.vercel.app?user=saifullahkabir&theme=highcontrast&hide_border=true&background=000000&stroke=ffffff&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" 
-    alt="GitHub Streak Stats" 
-  />
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://github.com/saifullahkabir" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullahkabir&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages&cache_seconds=1800" alt="Top Languages" />
+<a href="https://linkedin.com/in/saifullah-kabir-rana-3b7b1b305">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
+<a href="https://facebook.com/saifullah.kabir.104">
+<img src="https://skillicons.dev/icons?i=facebook" />
+</a>
+
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=saifullahkabir&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullahkabir&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saifullahkabir&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## Current Focus
+
+- 🚀 Building Premium Portfolio Website
+- 📚 Mastering Next.js
+- 🔥 Improving Backend Development Skills
+- 💻 Building Production Ready Projects
+
+---
+
+## ✨ Fun Fact
+
+> I enjoy turning ideas into clean, scalable, and interactive web experiences.
