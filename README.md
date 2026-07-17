@@ -61,10 +61,6 @@ Passionate about building modern, scalable, and user-friendly web applications u
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://facebook.com/saifullah.kabir.104">
-<img src="https://skillicons.dev/icons?i=facebook" />
-</a>
-
 </p>
 
 ---
